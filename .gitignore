@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated database
+data/*.db
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
